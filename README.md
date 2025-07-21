@@ -1,7 +1,7 @@
 # 🐉 Dragon Taste - Chinese Restaurant Mobile App
 
 <p align="center">
-  <img src="assets/logo_app.png" alt="Dragon Taste Logo" width="120" height="120"/>
+  <img src="assets/logo_app.jpg" alt="Dragon Taste Logo" width="120" height="120"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
   <a href="#getting-started">Getting Started</a> •
   <a href="#installation">Installation</a> •
   <a href="#api-documentation">API</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 <p align="center">
@@ -93,8 +91,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dragon_taste_flutter_app.git
-cd dragon_taste_flutter_app
+git clone https://github.com/ana3ss7z/dragon_taste_restaurant_flutter_app.git
+cd dragon_taste_restaurant_flutter_app
 ```
 
 ### 2. Install Dependencies
@@ -255,30 +253,6 @@ android {
 
 ---
 
-## 🧪 Testing
-
-### Running Tests
-
-```bash
-# Unit tests
-flutter test
-
-# Integration tests
-flutter drive --target=test_driver/app.dart
-
-# Widget tests
-flutter test test/widget_test.dart
-```
-
-### Test Coverage
-
-```bash
-# Generate coverage report
-flutter test --coverage
-genhtml coverage/lcov.info -o coverage/html
-```
-
----
 
 ## 🎥 Demo
 
@@ -312,47 +286,6 @@ genhtml coverage/lcov.info -o coverage/html
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-### Development Workflow
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-
-This project follows the [Dart Style Guide](https://dart.dev/guides/language/effective-dart/style). Please ensure your code is formatted using:
-
-```bash
-dart format .
-```
-
----
-
-## 🐛 Issues & Support
-
-### Reporting Issues
-
-If you encounter any bugs or have feature requests, please create an issue on GitHub:
-
-1. Check if the issue already exists
-2. Use the appropriate issue template
-3. Provide detailed information and steps to reproduce
-4. Include device information and app version
-
-### Getting Help
-
-- 📖 [Documentation](https://github.com/yourusername/dragon_taste_flutter_app/wiki)
-- 💬 [Discussions](https://github.com/yourusername/dragon_taste_flutter_app/discussions)
-- 📧 Email: support@dragontaste.app
-
----
-
 ## 📊 Performance
 
 ### Benchmarks
@@ -377,35 +310,17 @@ If you encounter any bugs or have feature requests, please create an issue on Gi
 ### Privacy Policy
 Please review our [Privacy Policy](PRIVACY.md) for information about data collection and usage.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Third-Party Licenses
-- Flutter: BSD 3-Clause License
-- Firebase: Google Terms of Service
-- Material Icons: Apache License 2.0
 
 ---
 
 ## 👥 Authors & Acknowledgments
 
 ### Development Team
-- **[Your Name]** - *Lead Developer* - [@yourusername](https://github.com/yourusername)
+- **Anass ZBIR** - *Lead Developer-Master Student* - [@ana3ss7z](https://github.com/ana3ss7z)
 
 ### Contributors
 Thanks to all the contributors who have helped make this project better! 
-
-<a href="https://github.com/yourusername/dragon_taste_flutter_app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/dragon_taste_flutter_app" />
-</a>
-
-### Special Thanks
-- Chinese cuisine consultants for authentic menu curation
-- UI/UX design inspiration from leading food apps
-- Beta testers for valuable feedback
 
 ---
 
@@ -413,10 +328,8 @@ Thanks to all the contributors who have helped make this project better!
 
 For business inquiries or partnerships:
 
-- **Website**: [www.dragontaste.app](https://www.dragontaste.app)
-- **Email**: contact@dragontaste.app
-- **LinkedIn**: [Dragon Taste App](https://linkedin.com/company/dragon-taste)
-- **Twitter**: [@DragonTasteApp](https://twitter.com/DragonTasteApp)
+- **Email**: anass.zr002@gmail.com
+- **LinkedIn**: [Anass ZBIR](https://www.linkedin.com/in/anass-zbir/)
 
 ---
 
@@ -425,5 +338,5 @@ For business inquiries or partnerships:
 </p>
 
 <p align="center">
-  Made with ❤️ and 🍜 by the Dragon Taste Team
+  Made with ❤️ and 🍜 
 </p>
